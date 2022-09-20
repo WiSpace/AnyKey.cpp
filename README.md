@@ -1,5 +1,5 @@
 # AnyKey.cpp
-AnyKey on C++
+AnyKey on C++.
 
-# Start
+# Ыtarting the file
 `AnyKey path/to/file.ak`
