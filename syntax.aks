@@ -1,0 +1,15 @@
+output:a
+input:b
+out_in:c
+endl:d
+...: 
+result:e
+add:f
+min:g
+div:h
+mul:i
+clear_res:j
+math_var:k
+clear_vars:l
+sel:m
+\"(.)(.)?(.)?(.)?(.)?(.)?\":#1+ #2+ #3+ #4+ #5
